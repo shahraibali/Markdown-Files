@@ -39,6 +39,7 @@ the whole course is [here][codanics youtube chanal]
 # 9- images and figures with link
 to join this course please scan the folloing qr code and join the whatsapp:
 [QR](qr.png)
+> with Image logo
 ![QR](qr.png)
 
 > TASK:HOW TO COMMONT OUT A MD LINE? AND ITS SHORTCUT?
@@ -50,11 +51,12 @@ ONLINE PICTURE
 # 10- Addind code or code block
 to print a string use print("codanics")
 
-print function ko alag karna ka leya
+>print function ko alag karna ka leya
 
 to print a string use `print("codanics")`
 `print("hello baba g")`
-for block of code ka leya
+
+>for block of code ka leya
 ```x=5+6
 y=3-2
 z=x+y
